@@ -1,6 +1,6 @@
 <?php
 
-usleep(750);
+usleep(750000);
 
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
