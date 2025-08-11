@@ -1,5 +1,7 @@
 <?php
 
+usleep(750);
+
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
 
